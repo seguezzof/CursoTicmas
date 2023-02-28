@@ -1,0 +1,79 @@
+/**Hoja de estilos externa*/
+
+
+*{
+    font-family: 'Golos Text', sans-serif;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+h1 {
+    margin: 5px 5px 5px 5px;
+    color:black;
+    width:auto;
+    font-weight:bolder;
+    font-size:xx-large;
+}
+
+h2 {
+    border: 5px solid #003366;
+    padding: 5px 5px 5px 15px;
+    margin: 35px 10px 10px 10px;
+    color:black;
+    width:auto;
+    font-weight:bolder;
+}
+
+h3{
+    text-decoration: underline;
+    margin: 5px 5px 5px 5px;
+    color:black;
+    width:auto;
+    font-weight:bolder;
+}
+
+t1{
+    margin: 5px 5px 5px 5px;
+    color:#666633;
+    width:auto;
+    font-weight:bolder
+}
+
+ul{
+    padding: 5px 5px 5px 5px;
+    margin: 5px 5px 5px 5px;
+}
+
+li{
+    margin: 5px 5px 5px 5px;
+    color:#666633;
+    width:auto;
+    font-weight:bolder;
+}
+
+section {
+    width: auto;
+    border: 1px solid black;
+    padding: 5px 5px 5px 15px;
+    margin: 0px 10px 0px 10px;
+}
+
+#cuadro_blanco {
+    width: auto;
+    padding: 5px 5px 5px 15px;
+    margin: 0px 10px 0px 10px;
+    border: 1px solid white;
+}
+
+#primer_parrafo {
+    font-style: italic;
+    color:black;
+}
+
+.italicclass {
+    font-style: italic;
+}
